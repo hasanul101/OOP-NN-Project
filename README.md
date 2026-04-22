@@ -19,12 +19,12 @@ The core component is a custom `Tensor` class that supports forward operations a
 ---
 
 ## Class Diagram
-![Class Diagram](class_diagram.png)
+[Class Diagram]
 
 ---
 
 ## Training Loss Curve
-![Loss Curve](loss_curve.png)
+[Loss Curve]
 
 ---
 
